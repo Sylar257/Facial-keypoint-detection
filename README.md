@@ -96,3 +96,7 @@ Before training, we can visualize our initialized facial landmarks:
 
 ### Training setup
 
+
+
+
+
